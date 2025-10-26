@@ -20,6 +20,10 @@ The approach is holistic, multi-layered and 360°:
 
 You will quickly raise awareness, simplify the complex, and gain a durable mental model of English usage.
 
+## Learning Program
+
+The English learning program is implemented in a WeChat Mini Program that provides various tools to help and motivate learners, such as collection, daily check-in, and rank list. The whole learning process is divided into six levels: the first four levels (concept introduction, multiple choices, and oral questions) are implemented, while the chatbot represents the final level—putting learners into realistic English settings to help them master concept learning through daily conversation. The chatbot engine uses advanced Chaotic Neural Oscillatory LSTM technology ([Language-Chatbot-3.0](https://github.com/liafonx/Language-Chatbot-3.0.git)) to provide more natural and contextually aware conversations.
+
 ## Pillars & Principles
 
 ![Pillars and Principles](./Pillars-and-Principles.png)
@@ -38,6 +42,12 @@ This repository contains the learning methodology and reference materials. The c
 
 The Mini Program communicates with the backend through RESTful APIs, sending user interactions and receiving structured responses (lessons, feedback, assessments). This modular design allows independent development and deployment of the user interface and core learning engine.
 
+**AI Chatbot Engine** - Advanced conversational AI using Chaotic Neural Oscillatory LSTM technology  
+[Language-Chatbot-3.0](https://github.com/liafonx/Language-Chatbot-3.0.git)
+
+The chatbot engine integrates with the backend service to power the sixth level of the learning program. It processes natural language conversations, applies the conceptual learning framework, and provides contextually appropriate responses that help learners practice English in realistic scenarios.
+
 ## Materials
 
 - Poster overview: `Language Chatbot 3.0 Poster.pdf` (high-level introduction to the method, pillars, and principles)
+
