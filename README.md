@@ -1,4 +1,4 @@
-# <img src="./LOGO.png" alt="Thinking Parrot Logo" width="28" style="vertical-align: middle; margin-right: 8px;" /> Thinking Parrot
+# <img src="./LOGO.png" alt="Thinking Parrot Logo" width="28" style="vertical-align: middle; margin-right: 8px;" /> Thinking Parrot (有脑鹦鹉)
 
 An AI-assisted, concept-first approach to mastering English. This project promotes a new way to learn that goes beyond grammar drills and vocabulary lists, focusing instead on the concepts and patterns native speakers use unconsciously.
 
